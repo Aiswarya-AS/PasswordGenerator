@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.centered-div {
+  text-align: center;
+}
+
+.btn{
+  background-color: rgb(65, 210, 102);
+  border: none;
+  padding: 1rem;
+  border-radius: .6rem;
+}
